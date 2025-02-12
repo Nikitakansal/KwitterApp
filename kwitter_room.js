@@ -3,14 +3,13 @@
 // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   var firebaseConfig = {
-    apiKey: "AIzaSyBKkbruXZvNeFKCpsy-s_aTyqx0NSyFsNE",
-    authDomain: "kwitter-2fcb6.firebaseapp.com",
-    databaseURL: "https://kwitter-2fcb6-default-rtdb.firebaseio.com",
-    projectId: "kwitter-2fcb6",
-    storageBucket: "kwitter-2fcb6.appspot.com",
-    messagingSenderId: "401168289125",
-    appId: "1:401168289125:web:51eee8c1713abfdebe658c",
-    measurementId: "G-9GC43167B1"
+    apiKey: "AIzaSyCyViOjPRZzPWs_sJa-xUwzIAPbuCoDlPI",
+  authDomain: "kwitter-1e814.firebaseapp.com",
+  projectId: "kwitter-1e814",
+  storageBucket: "kwitter-1e814.firebasestorage.app",
+  messagingSenderId: "562589917416",
+  appId: "1:562589917416:web:9e024f9ff478d4567a695d",
+  measurementId: "G-FR3RFV4RMH"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);

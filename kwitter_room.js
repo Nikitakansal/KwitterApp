@@ -6,7 +6,7 @@
   apiKey: "AIzaSyDGi39W_O1GXV1517KLeY_zP78JcW_zAm8",
   authDomain: "kwitter-18aff.firebaseapp.com",
   projectId: "kwitter-18aff",
-  database_url:"https://kwitter-18aff-default-rtdb.firebaseio.com",
+  databaseURL:"https://kwitter-18aff-default-rtdb.firebaseio.com",
   storageBucket: "kwitter-18aff.firebasestorage.app",
   messagingSenderId: "188418706836",
   appId: "1:188418706836:web:3374fac943007e13f21381",
